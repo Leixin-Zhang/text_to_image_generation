@@ -1,1 +1,1 @@
-# text_to_image_generation
+# ScImage Benchmark: text to scientific image generation
