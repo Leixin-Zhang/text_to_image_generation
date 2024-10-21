@@ -1,0 +1,405 @@
+ID,Prompt
+a_1_1,A black square.
+a_2_1,A red triangle and a green circle.
+a_3_1,A circle with a blue border.
+a_4_1,A yellow circle with the border of a different color.
+a_5_1,A circle with its radius marked in orange.
+a_6_1,A large rectangle and a small one.
+a_7_1,Some squares of different sizes.
+a_8_1,The diagonal of the square is red and very thick.
+a_9_1,A square with rounded corners.
+a_10_1,A triangle with sides of equal length.
+a_11_1,Some circles are of different sizes and the largest one is in red.
+a_12_1,A box and its shadow which is longer than it.
+n_1_1,There are five squares and two circles.
+n_2_1,"The number of triangles is 2, and there are 5 more squares than triangles."
+n_3_1,A polygon with 3 sides.
+n_4_1,A three-by-four matrix.
+n_5_1,"M triangles and N circles, where M is greater than N, and M and N are both larger than 1."
+n_6_1,"M triangles and N circles, where M is the same as N, and M and N are both larger than 2."
+n_7_1,y = 3^{x} and its inverse function.
+n_8_1,"Therer are N squares and 3*N circles, where N > 1."
+n_9_1,A rectangle with a length of 4 cm and a width of 1/2 of the length.
+n_10_1,"A circle is divided into N parts using N-1 lines, where N > 2."
+n_11_1,"In the pie chart, the proportion of children is 30%, and the rest are adults."
+n_12_1,"A bar chart representing weather distribution, with M sunny days, N rainy days, and K cloudy days, where M + N + K equals 30."
+n_13_1,A binary tree with a total of 7 nodes.
+n_14_1,There is an artificial neural network with 4 hidden layers.
+n_15_1,"A bar chart shows the number of graduates in different subjects within the community. 1,200 studied humanities, 3,500 studied science, and 4,620 studied engineering. The values are marked at the top of each bar."
+n_16_1,"The number of students at the university was 21,400 in 2020, 23,000 in 2021, 25,200 in 2022, and 20,300 in 2023. The student numbers over these four years are represented in a line chart. The values are also marked in the chart."
+s_1_1,A circle is in the middle of the canvas.
+s_2_1,A circle is to the left of a square.
+s_3_1,There is a circle in the upper left corner of a square.
+s_4_1,A star in each corner of a triangle.
+s_5_1,"A circle is inside the square, and a triangle is outside."
+s_6_1,A square between a circle and a triangle.
+s_7_1,A binary tree with the root at the leftmost position.
+s_8_1,A parabola opening upwards. 
+s_9_1,A circle and a triangle intersect.
+s_10_1,There are many stars around a circle.
+s_11_1,Many circles are embedded within each other without intersection.
+s_12_1,The badminton ball moves along a parabola.
+s_13_1,A container is half filled with water.
+s_14_1,"There is a cylinder on the table. The cylinder and the table are on the left side of the image. The top view and the left view of the cylinder are on the right side of the image, and the English texts of 'top view' and 'left view' are annotated beside their shapes."
+ns_1_1,5 squares on the left side of the canvas.
+ns_2_1,Three circles in the upper left corner of the rectangle.
+ns_3_1,There are 4 line segments inside a circle.
+ns_4_1,There is a square in the middle of four circles.
+ns_5_1,Four squares are to the right of four triangles.
+ns_6_1,5 arrows pointing to different directions.
+ns_7_1,5 stars are arranged in a row.
+ns_8_1,There are two clusters. The leftmost cluster has more dots than the upper-right cluster.
+ns_9_1,A rectangle is rotated 30 degrees clockwise.
+ns_10_1,The angle between a line and a vertical space is 40 degrees.
+ns_11_1,There are 4 tangent lines to a circle.
+ns_12_1,A binary tree with 5 nodes. The nodes are connected with arrows that point to the children nodes.
+ns_13_1,There are 5 squares on the left side of the canvas and 3 circles on the right side.
+ns_14_1,There are 4 boxes on a 30 degree slope.
+ns_15_1,A directed graph with 4 nodes and 6 edges. Arrows indicate the direction on edges.
+ns_16_1,"Set A contains the numbers 1, 2, 5 and 6, and set B contains 1, 3, and 5. Use a Venn diagram to represent set A and set B"
+sa_1_1,A green ball is above a red ball.
+sa_2_1,"A big circle is inside a circle, and a small circle is outside of the circle."
+sa_3_1,"In a bar chart, a blue bar is to the right of an orange bar, and the leftmost bar is the tallest in the chart."
+sa_4_1,The English text (the name of the object) is to the left of the triangle.
+sa_5_1,"A red circle is on the left side of the canvas, and a blue square is on the lower right side."
+sa_6_1,"A large circle is on the top of the canvas, and a small square is on the bottom."
+sa_7_1,There are some arrows pointing to different directions and the upward arrow is marked in red.
+sa_8_1,The intersection of the circle and the square is filled with red.
+sa_9_1,"There are two parallel lines: a pink line and a light green line. Two lines are parallel and form a 90-degree angle with a third line, which is horizontal."
+sa_10_1,A pyramid is inside an upward-curved surface.
+na_1_1,3 circles filled with different colors.
+na_2_1,A circle is filled with two different colors.
+na_3_1,There are three circles equidistant from each other.
+na_4_1,There is a big circle and two small circles.
+na_5_1,5 triangles of different sizes.
+na_6_1,Three triangles of the same size but different shapes.
+na_7_1,Two blue spaces divide a pyramid into four parts.
+na_8_1,There is a polygon with 3 sides. Each side has a different color.
+na_9_1,A transparent box contains 3 red balls and 5 black balls.
+na_10_1,There is a square border around three circles.
+na_11_1,"There is a N by 2N matrix, where N is an integer. Mark all odd numbers in the matrix in red and even numbers in green."
+na_12_1,"There is a circle, a triangle, and a square, with the first two objects closer to each other than to the last object."
+na_13_1,"There are 5 monochrome circles in a row and they are filled with blue colors, with colors gradually changing from lighter to darker."
+na_14_1,"There is a pie chart representing the population proportion of 5 age groups, from 0 to 100 years old. Each group has the same or a similar range, but their population percentages differ. The age group and their proportion are marked in each pie slice."
+na_15_1,A table with three rows and five columns. The row index is marked in the first column.
+na_16_1,There is a line chart with two blue lines and the value of each turning point is annotated beside it.
+na_17_1,"A flowchart with five steps. The first step is to collect data, and the second step is to analyze the data. The remaining steps are left blank."
+na_18_1,A 1000 ml measuring cup is filled with 300 ml of the light blue solution.
+na_19_1,A circuit diagram contains a battery and three small light bulbs.
+na_20_1,"The distance between the blue car and the red car is 50 meters, The distance is marked with a line segment and the distance number."
+nsa_1_1,Two red cylinders are placed inside a cube.
+nsa_2_1,"Three cones are aligned in a row; the first one is red, and the others are blue."
+nsa_3_1,"Two parallel line segments are inside a circle, with all of their endpoints on the circle.  Mark the endpoints with black dots."
+nsa_4_1,"Two lines divide the dots into three clusters. Mark the leftmost cluster in red, the middle cluster in blue, and the last one in green."
+nsa_5_1,Two triangles are placed in a coordinate system and are symmetrical about the origin. Object on the one side is in red. Object on the other side is in green.
+nsa_6_1,Some tubes are on opposite sides of a plane. There are five black ones on the left and three grey ones on the right.
+nsa_7_1,"A line graph with two red lines increasing gradually and intersecting once, and three green lines decreasing gradually without intersecting the other lines."
+nsa_8_1,A bar chart with 5 bars and mark the leftmost bar in blue.
+nsa_9_1,Four red straight lines are not parallel to each other. They pass through a blue plane and form the same angle with the plane.
+nsa_10_1,Four straight lines are located in a coordinate system and are symmetrical about the X-axis in pairs. Each pair shares the same color.
+nsa_11_1,A small ball falls from a table 1.5 meters high and bounces to a height of 0.8 meters. The trajectory of the ball's fall and rebound is represented by a red dotted line.
+nsa_12_1,"The box on the left contains 5 white balls, and the box on the right contains 3 black balls and 2 green balls."
+nsa_13_1,"The scores of a class are in a bell shape, with the largest number of people in the 60-65 range. The highest and lowest scores are 10 and 100 respectively. A histogram represents the scores of this class."
+a_1_2,A brown triangular pyramid.
+a_2_2,A green cone and a brown ellipsoid.
+a_3_2,A cylinder with a red border.
+a_4_2,A yellow semicircle with the border of a different color.
+a_5_2,A circle with its radius marked in blue.
+a_6_2,A large light bulb and a small one.
+a_7_2,Some ellipses of different sizes.
+a_8_2,The diagonal of the square is blue and very thick.
+a_9_2,A triangular pyramid with rounded corners.
+a_10_2,An octagon with sides of equal length.
+a_11_2,Some cubes of different sizes and mark the largest one in orange.
+a_12_2,A flagpole and its shadow which is longer than it.
+n_1_2,There are 4 spheres and 6 cubes.
+n_2_2,"The number of triangles is 2, and there are 7 more stars than triangles."
+n_3_2,A polygon with 5 sides.
+n_4_2,A six-by-three matrix.
+n_5_2,"M cylinders and N semi-circle prisms, where M is greater than N, and M and N are both larger than 1."
+n_6_2,"M cuboids and N square pyramids, where M is the same as N, and M and N are both larger than 2."
+n_7_2,Y = x^{3} and its inverse function.
+n_8_2,"There are N cones and 2*N semi-circle prisms, where N > 1."
+n_9_2,A rectangle with a length of 8 cm and a width of 1/2 of the length.
+n_10_2,"A pentagon is divided into N parts using N-1 lines, where N > 2."
+n_11_2,"In the pie chart, the proportion of children is 80%, and the rest are adults."
+n_12_2,"A bar chart representing weather distribution, with M sunny days, N rainy days, and K cloudy days, where M + N + K equals 27."
+n_13_2,A binary tree with a total of 12 nodes.
+n_14_2,There is an artificial neural network with 3 hidden layers.
+n_15_2,"A pie chart shows the number of graduates in different subjects within the community. 1,200 studied humanities, 4,800 studied science, and 4,000 studied engineering. The percentages are marked inside each pie slice."
+n_16_2,"The number of students at the university was 21,400 in 2020, 23,000 in 2021, 25,200 in 2022, and 20,300 in 2023. The student numbers over these four years are represented in a bar chart. The values are also marked in the chart."
+s_1_2,A star is in the northeast corner of the canvas.
+s_2_2,A box is to the left of a flagpole.
+s_3_2,There is an oval in the lower right corner of a square.
+s_4_2,An ellipse in each corner of a polygon.
+s_5_2,"An even number is inside the bracket, and an odd number is outside."
+s_6_2,A sphere between a cuboid and a square pyramid.
+s_7_2,A binary tree with the root at the upper right position.
+s_8_2,A parabola opening downwards.
+s_9_2,A star and an oval intersect.
+s_10_2,There are many ellipsoids around a cuboid.
+s_11_2,Many stars are embedded within each other without intersection.
+s_12_2,The tennis ball moves along a parabola.
+s_13_2,A bottle is half filled with water.
+s_14_2,"There is a pentagonal prism on the table. The pentagonal and the table are on the left side of the image, and the English texts of 'top view' and 'left view' are annotated beside their shapes."
+ns_1_2,8 diamonds on the left side of the canvas
+ns_2_2,6 circles in the upper left corner of the rectangle.
+ns_3_2,There are 3 line segments to the right of a circle.
+ns_4_2,There is a triangular pyramid in the middle of 4 hexagonal prisms.
+ns_5_2,8 stars are to the left of 6 ellipses.
+ns_6_2,2 arrows pointing to different directions.
+ns_7_2,4 beakers are arranged in a row.
+ns_8_2,There are two clusters. The right cluster has more dots than the upper left cluster.
+ns_9_2,A rectangle is rotated 60 degrees clockwise.
+ns_10_2,The angle between a line and a vertical space is 60 degrees.
+ns_11_2,There are 6 tangent lines to a circle.
+ns_12_2,A binary tree with 10 nodes. The nodes are connected with arrows that point to the children nodes.
+ns_13_2,There are 7 tennis balls on the upper right side of the canvas and 9 footballs on the lower right side.
+ns_14_2,There are 3 boxes on a 70 degree slope.
+ns_15_2,A directed graph with 8 nodes and 7 edges. Arrows indicate the direction on edges.
+ns_16_2,"Set A contains the numbers 1, 2, 5, and 6. Set B contains 1, 3, and 7. Use a Venn diagram to represent set A and set B"
+sa_1_2,A pink semicircle is inside a grey oval.
+sa_2_2,"A big ellipsoid is inside a circle, and a small diamond is outside of the circle."
+sa_3_2,"In a bar chart, a red bar is to the right of a yellow bar, and the leftmost bar is the tallest in the chart."
+sa_4_2,The English text (the name of the object) is to the right of the star.
+sa_5_2,"A light blue oval is on the left side of the canvas, and a red ellipse is on the lower right side."
+sa_6_2,"A large ellipse is on the top of the canvas, and a small oval is on the bottom."
+sa_7_2,There are some arrows pointing to different directions and the upward arrow is marked in orange.
+sa_8_2,The intersection of the ellipse and the semicircle is filled with dark blue.
+sa_9_2,"There are two parallel lines: a blue line and a dark green line. Two lines are parallel and form a 30-degree angle with a third line, which is horizontal."
+sa_10_2,A triangular pyramid is inside an upward-curved surface.
+na_1_2,5 hexagonal prisms filled with different colors.
+na_2_2,A circle is filled with 5 different colors.
+na_3_2,There are three measuring cups equidistant from each other.
+na_4_2,There is a big pentagonal prism and 3 small triangular pyramids.
+na_5_2,2 test tubes of different sizes.
+na_6_2,3 quadrilaterals of the same size but different shapes.
+na_7_2,Two light green spaces divide a cylinder into four parts.
+na_8_2,There is a polygon with 9 sides. each side has a different color.
+na_9_2,A transparent box contains 2 green balls and 7 light blue balls.
+na_10_2,There is a square border around 2 circles.
+na_11_2,"There is a N by 2N matrix, where N is an integer. Mark all odd numbers in the matrix in light blue and even numbers in dark green."
+na_12_2,"There is a pentagonal prism, a cuboid, and a square pyramid, with the first two objects closer to each other than to the last object."
+na_13_2,"There are 3 monochrome balls in a row and they are filled with green colors, with colors gradually changing from lighter to darker."
+na_14_2,"There is a pie chart representing the population proportion of 6 age groups, from 0 to 100 years old. Each group has the same or a similar range, but their population percentages differ. The age group and their proportion are marked in each pie slice."
+na_15_2,A table with 8 rows and 5 columns. The row index is marked in the first column.
+na_16_2,There is a line chart with 3 dark blue lines and the value of each turning point is annotated beside it.
+na_17_2,"A flowchart with 8 steps. The first step is to collect data, and the second step is to analyze the data. The remaining steps are left blank."
+na_18_2,A 1000 ml measuring cup is filled with 400 ml of the light green solution.
+na_19_2,A circuit diagram contains a battery and 5 small light bulbs.
+na_20_2,The distance between the cube and the square pyramid is 10 cm. The distance is marked with a line segment and the distance number.
+nsa_1_2,2 blue diamonds are placed in the middle of a cube.
+nsa_2_2,"6 buckets are aligned in a row; the first one is grey, and the others are brown."
+nsa_3_2,"8 parallel line segments are inside a circle, with all of their endpoints on the circle. Mark the endpoints with red dots."
+nsa_4_2,"Two lines divide the dots into three clusters. Mark the bottom cluster in light green, the middle cluster in light blue, and the last one in yellow."
+nsa_5_2,6 triangular prisms are placed in a coordinate system and are symmetrical about the origin. Objects on the one side are in pink. Objects on the other side are in orange.
+nsa_6_2,Some cones are on opposite sides of a plane. There are 2 light blue ones on the left and 3 yellow ones on the right.
+nsa_7_2,"A line graph with 3 dark blue lines increasing gradually and intersecting once, and 4 light blue lines decreasing gradually without intersecting the other lines."
+nsa_8_2,A bar chart with 4 bars and mark the leftmost bar in brown.
+nsa_9_2,Three red straight lines are not parallel to each other. They pass through a light blue plane and form the same angle with the plane.
+nsa_10_2,Four dash lines are located in a coordinate system and are symmetrical about the X-axis in pairs. Each pair shares the same color.
+nsa_11_2,A small ball falls from a table 1.6 meters high and bounces to a height of 0.3 meters. The trajectory of the ball's fall and rebound is represented by a light green dotted line.
+nsa_12_2,"The box on the left contains 5 white balls, and the box on the right contains 4 green balls and 5 grey balls."
+nsa_13_2,"The scores of a class are in a bell shape, with the largest number of people in the 60-65 range. The highest and lowest scores are 7 and 60 respectively. A histogram represents the scores of this class."
+a_1_3,A purple hexagonal prism.
+a_2_3,A yellow star and a grey oval.
+a_3_3,A semicircle with a light blue border.
+a_4_3,An orange cube with the border of a different color.
+a_5_3,A circle with its radius marked in light green.
+a_6_3,A large triangular prism and a small one.
+a_7_3,Some hexagonal prisms of different sizes.
+a_8_3,The diagonal of the square is dark green and very thin.
+a_9_3,A quadrilateral with rounded corners.
+a_10_3,A pentagon with sides of equal length.
+a_11_3,Some quadrilaterals of different sizes and mark the largest one in purple.
+a_12_3,A bottle and its shadow which is longer than it.
+n_1_3,There are 2 beakers and 3 test tubes.
+n_2_3,"The number of triangles is 3, and there are 3 more pentagons than triangles."
+n_3_3,A polygon with 8 sides.
+n_4_3,A five-by-five matrix.
+n_5_3,"M semicircles and N ellipses, where M is greater than N, and M and N are both larger than 1."
+n_6_3,"M test tubes and N measuring cups, where M is the same as N, and M and N are both larger than 2."
+n_7_3,Y = x^{2} and its inverse function.
+n_8_3,"There are N balls and 3*N boxes, where N > 1."
+n_9_3,A rectangle with a length of 3 cm and a width of 1/3 of the length.
+n_10_3,"An ellipse is divided into N parts using N-1 lines, where N > 2."
+n_11_3,"In the pie chart, the proportion of children is 40%, and the rest are adults."
+n_12_3,"A bar chart representing weather distribution, with M sunny days, N rainy days, and K cloudy days, where M + N + K equals 15."
+n_13_3,A binary tree with a total of 8 nodes.
+n_14_3,There is an artificial neural network with 6 hidden layers.
+n_15_3,"A bar chart shows the number of graduates in different subjects within the community. 1,800 studied humanities, 4,500 studied science, and 5,520 studied engineering. The values are marked at the top of each bar."
+n_16_3,"The number of students at the university was 21,400 in 2020, 23,000 in 2021, 25,200 in 2022, and 20,300 in 2023. The student numbers over these four years are represented in a dot plot. The values are also marked in the chart."
+s_1_3,A cylinder is on the west side of the canvas.
+s_2_3,A cylinder is to the left of a hexagonal prism.
+s_3_3,There is a triangle in the upper left corner of a square.
+s_4_3,A pentagon in each corner of a polygon.
+s_5_3,"An oval is inside the square, and a star is outside."
+s_6_3,A cube between a hexagonal prism and a triangular pyramid.
+s_7_3,A binary tree with the root at the lower left position.
+s_8_3,A parabola opening towards the upper left.
+s_9_3,An oval and a trapezoid intersect.
+s_10_3,There are many cones around a sphere.
+s_11_3,Many cones are embedded within each other without intersection.
+s_12_3,The football moves along a parabola.
+s_13_3,A beaker is half filled with water.
+s_14_3,"There is a triangular pyramid on the table. The triangular pyramid and the table are on the left side of the image.  The top view and the left view of the triangular pyramid are on the right side of the image, and the English texts of 'top view' and 'left view' are annotated beside their shapes."
+ns_1_3,5 lines on the lower left side of the canvas
+ns_2_3,5 cubes in the lower left corner of the cuboid.
+ns_3_3,There are 2 line segments on top of a circle.
+ns_4_3,There is a sphere in the middle of 6 rings.
+ns_5_3,Three measuring cups are to the left of two beakers.
+ns_6_3,8 arrows pointing to different directions.
+ns_7_3,5 cones are arranged in a row.
+ns_8_3,There are two clusters. The lower right cluster has more dots than the upper right cluster.
+ns_9_3,A rectangle is rotated 10 degrees clockwise.
+ns_10_3,The angle between a line and a horizontal space is 50 degrees.
+ns_11_3,There are 5 tangent lines to a circle.
+ns_12_3,A binary tree with 6 nodes. The nodes are connected with arrows that point to the parent nodes.
+ns_13_3,There are 3 test tubes on the upper left side of the canvas and 2 bottles on the lower right side.
+ns_14_3,There are 6 boxes on a 30 degree slope.
+ns_15_3,A directed graph with 6 nodes and 9 edges. Arrows indicate the direction on edges.
+ns_16_3,"Set A contains the numbers 1, 2, 5, and 6. Set B contains 1, 3, and 6. Use a Venn diagram to represent set A and set B"
+sa_1_3,A dark green ring is below a light blue cone.
+sa_2_3,"A big tennis ball is inside a circle, and a small football is outside of the circle."
+sa_3_3,"In a bar chart, a brown bar is to the right of a dark green bar, and the leftmost bar is the shortest in the chart."
+sa_4_3,The English text (the name of the object) is on the right of the battery.
+sa_5_3,"A dark blue cone is on the left side of the canvas, and a blue cylinder is on the lower right side."
+sa_6_3,"A large semi-circle prism is on the top of the canvas, and a small ring is on the bottom."
+sa_7_3,There are some arrows pointing to different directions and the downward arrow is marked in green.
+sa_8_3,The intersection of the quadrilateral and the pentagram is filled with light blue.
+sa_9_3,"There are two parallel lines: a red line and a yellow line. Two lines are parallel and form a 60-degree angle with a third line, which is horizontal."
+sa_10_3,A tube is inside an upward-curved surface.
+na_1_3,2 volleyballs filled with different colors.
+na_2_3,A circle is filled with 3 different colors.
+na_3_3,There are three ellipses equidistant from each other.
+na_4_3,There is a big test tube and 2 small petri dishes.
+na_5_3,5 eggs of different sizes.
+na_6_3,2 rectangulars of the same size but different shapes.
+na_7_3,Two dark blue spaces divide a semi-circle prism into four parts.
+na_8_3,There is a polygon with 4 sides. each side has a different color.
+na_9_3,A transparent box contains 3 pink balls and 4 dark blue balls.
+na_10_3,There is a square border around 8 circles.
+na_11_3,"There is a N by 2N matrix, where N is an integer. Mark the minimal value in the matrix in yellow and maximum value in pink."
+na_12_3,"There is a function, a matrix, and a dot plot, with the first two objects closer to each other than to the last object."
+na_13_3,"There are 8 monochrome hexagonal prism in a row and they are filled with blue colors, with colors gradually changing from lighter to darker."
+na_14_3,"There is a pie chart representing the population proportion of 3 age groups, from 0 to 100 years old. Each group has the same or a similar range, but their population percentages differ. The age group and their proportion are marked in each pie slice."
+na_15_3,A table with 2 rows and 8 columns. The row index is marked in the first column.
+na_16_3,There is a line chart with 2 light green lines and the value of each turning point is annotated beside it.
+na_17_3,"A flowchart with 7 steps. The first step is to collect data, and the second step is to analyze the data. The remaining steps are left blank."
+na_18_3,A 1000 ml measuring cup is filled with 200 ml of the pink solution.
+na_19_3,A circuit diagram contains a battery and 2 small light bulbs.
+na_20_3,The distance between the square pyramid and the triangular pyramid is 15 cm. The distance is marked with a line segment and the distance number.
+nsa_1_3,6 pink equilateral triangles are placed on the right of an ellipsoid.
+nsa_2_3,"9 semicircles are aligned in a row; the first one is pink, and the others are green."
+nsa_3_3,"6 parallel line segments are inside a circle, with all of their endpoints on the circle. Mark the endpoints with brown dots."
+nsa_4_3,"Two lines divide the dots into three clusters. Mark the upper left cluster in pink, the middle cluster in orange, and the last one in green."
+nsa_5_3,8 squares are placed in a coordinate system and are symmetrical about the origin. Object(s) on the one side is/are in light blue. Object(s) on the other side is/are in red.
+nsa_6_3,Some cuboids are on opposite sides of a plane. There are 2 light green ones on the left and 5 green ones on the right.
+nsa_7_3,"A line graph with 3 light green lines increasing gradually and intersecting once, and 3 yellow lines decreasing gradually without intersecting the other lines."
+nsa_8_3,A bar chart with 3 bars and mark the leftmost bar in dark green.
+nsa_9_3,Five blue straight lines are not parallel to each other. They pass through a blue plane and form the same angle with the plane.
+nsa_10_3,Eight straight lines are located in a coordinate system and are symmetrical about the Y-axis in pairs. Each pair shares the same color.
+nsa_11_3,A small ball falls from a table 1.8 meters high and bounces to a height of 0.4 meters. The trajectory of the ball's fall and rebound is represented by a pink dotted line.
+nsa_12_3,"The box on the left contains 3 white balls, and the box on the right contains 5 blue balls and 2 dark blue balls."
+nsa_13_3,"The scores of a class are in a bell shape, with the largest number of people in the 60-65 range. The highest and lowest scores are 2 and 30 respectively. A histogram represents the scores of this class."
+a_1_4,A dark blue ellipse.
+a_2_4,A dark green hexagonal prism and a dark blue cube.
+a_3_4,A decagon with a pink border.
+a_4_4,A grey ellipsoid with the border of a different color.
+a_5_4,A circle with its radius marked in yellow.
+a_6_4,A large triangular pyramid and a small one.
+a_7_4,Some pentagonal prisms of different sizes.
+a_8_4,The diagonal of the square is black and very thin.
+a_9_4,A pentagon with rounded corners.
+a_10_4,A quadrilateral with sides of equal length.
+a_11_4,Some stars of different sizes and mark the largest one in red.
+a_12_4,A cylinder and its shadow which is longer than it.
+n_1_4,There are two cones and five spheres.
+n_2_4,"The number of triangles is 7, and there are 2 more ovals than triangles."
+n_3_4,A polygon with 6 sides.
+n_4_4,A twelve-by-two matrix.
+n_5_4,"M cuboids and N triangular pyramids, where M is greater than N, and M and N are both larger than 1."
+n_6_4,"M ovals and N semicircles, where M is the same as N, and M and N are both larger than 2."
+n_7_4,Y = 2^{x} and its inverse function.
+n_8_4,"There are N batteries and 4*N light bulbs, where N > 1."
+n_9_4,A rectangle with a length of 2 cm and a width of 1/2 of the length.
+n_10_4,"A parallelogram is divided into N parts using N-1 lines, where N > 2."
+n_11_4,"In the pie chart, the proportion of children is 30%, and the rest are adults."
+n_12_4,"A bar chart representing weather distribution, with M sunny days, N rainy days, and K cloudy days, where M + N + K equals 20."
+n_13_4,A binary tree with a total of 7 nodes.
+n_14_4,There is an artificial neural network with 5 hidden layers.
+n_15_4,"A pie chart shows the number of graduates in different subjects within the community. 4,000 studied humanities, 1,800 studied science, and 4,200 studied engineering. The percentages are marked inside each pie slice."
+n_16_4,"The number of students at the university was 18,000 in 2020, 15,000 in 2021, 22,000 in 2022, and 20,300 in 2023. The student numbers over these four years are represented in a line chart. The values are also marked in the chart."
+s_1_4,An oval is on the left side of the canvas.
+s_2_4,A cuboid is to the left of a cube.
+s_3_4,There is a trapezoid in the lower left corner of a square.
+s_4_4,An oval in each corner of a pentagon.
+s_5_4,"A test tube is inside the measuring cup, and a petri dish is outside."
+s_6_4,A square between an oval and an ellipse.
+s_7_4,A binary tree with the root at the right position.
+s_8_4,A parabola opening towards the right.
+s_9_4,A line and a space intersect.
+s_10_4,There are many semicircles around an oval.
+s_11_4,Many parallelograms are embedded within each other without intersection.
+s_12_4,The small box moves along a parabola.
+s_13_4,A measuring cup is half filled with water.
+s_14_4,"There is a cone on the table. The cone and the table are on the left side of the image.  The top view and the left view of the cone are on the right side of the image, and the English texts of 'top view' and 'left view' are annotated beside their shapes."
+ns_1_4,13 ellipsoids on the upper left side of the canvas
+ns_2_4,5 stars in the upper left corner of the rectangle.
+ns_3_4,There are 5 line segments outside of a circle.
+ns_4_4,There is a sphere in the middle of 2 cubes.
+ns_5_4,3 square pyramids are on 3 cubes.
+ns_6_4,4 arrows pointing to different directions.
+ns_7_4,7 petri dishes are arranged in a row.
+ns_8_4,There are two clusters. The upper left cluster has more dots than the lower right cluster.
+ns_9_4,A rectangle is rotated 180 degrees clockwise.
+ns_10_4,The angle between a line and a vertical space is 30 degrees.
+ns_11_4,There are 2 tangent lines to a circle.
+ns_12_4,A binary tree with 7 nodes. The nodes are connected with arrows that point to the parent nodes.
+ns_13_4,There are 6 cylinders on the right side of the canvas and 7 tubes on the lower left side.
+ns_14_4,There are five boxes on a 30 degree slope.
+ns_15_4,A directed graph with 3 nodes and 4 edges. Arrows indicate the direction on edges.
+ns_16_4,"Set A contains the numbers 1, 2, 5, and 6. Set B contains 1, 3, and 9. Use a Venn diagram to represent set A and set B"
+sa_1_4,An orange quadrilateral is to the west of a red parallelogram.
+sa_2_4,"A big cones is inside a circle, and a small cone is outside of the circle."
+sa_3_4,"In a bar chart, a grey bar is to the right of a green bar, and the leftmost bar is the shortest in the chart."
+sa_4_4,The English text (the name of the object) is to the north of the measuring cup.
+sa_5_4,"A light green semicircle is on the left side of the canvas, and a grey ellipse is on the lower right side."
+sa_6_4,"A large cylinder is on the top of the canvas, and a small ellipsoid is on the bottom."
+sa_7_4,There are some arrows pointing to different directions and the arrow towards the left is marked in light green.
+sa_8_4,The intersection of the pentagon and the trapezoid is filled with blue.
+sa_9_4,"There are two parallel lines: a green line and a purple line. Two lines are parallel and form a 80-degree angle with a third line, which is vertical."
+sa_10_4,A sphere is inside an upward-curved surface.
+na_1_4,7 semicircles filled with different colors.
+na_2_4,A circle is filled with 4 different colors.
+na_3_4,There are three bottles equidistant from each other.
+na_4_4,There is a big bar chart and 3 small pie charts.
+na_5_4,8 semi-circle prisms of different sizes.
+na_6_4,3 triangles of the same size but different shapes.
+na_7_4,Two light blue spaces divide a cone into four parts.
+na_8_4,There is a polygon with 8 sides. each side has a different color.
+na_9_4,A transparent box contains 3 brown balls and 6 purple balls.
+na_10_4,There is a square border around 4 circles.
+na_11_4,"There is a N by 2N matrix, where N is an integer. Mark all odd numbers in the matrix in purple and even numbers in red."
+na_12_4,"There is a light bulb, a battery, and a resistor, with the first two objects closer to each other than to the last object."
+na_13_4,"There are 5 monochrome cubes in a row and they are filled with yellow colors, with colors gradually changing from lighter to darker."
+na_14_4,"There is a pie chart representing the population proportion of 2 age groups, from 0 to 100 years old. Each group has the same or a similar range, but their population percentages differ. The age group and their proportion are marked in each pie slice."
+na_15_4,A table with 5 rows and 5 columns. The row index is marked in the first column.
+na_16_4,There is a line chart with 3 grey lines and the value of each turning point is annotated beside it.
+na_17_4,"A flowchart with 6 steps. The first step is to collect data, and the second step is to analyze the data. The remaining steps are left blank."
+na_18_4,A 1000 ml measuring cup is filled with 500 ml of the light blue solution.
+na_19_4,A circuit diagram contains a battery and four small light bulbs.
+na_20_4,The distance between the battery and the light bulb is 5 cm. The distance is marked with a line segment and the distance number.
+nsa_1_4,3 dark green boxes are placed to the east of a tube.
+nsa_2_4,"5 test tubes are aligned in a white; the first one is red, and the others are light blue."
+nsa_3_4,"3 parallel line segments are inside a circle, with all of their endpoints on the circle. Mark the endpoints with orange dots."
+nsa_4_4,"Two lines divide the dots into three clusters. Mark the rightmost cluster in light blue, the middle cluster in pink, and the last one in grey."
+nsa_5_4,8 lines are placed in a coordinate system and are symmetrical about the origin. Objects on the one side are in light green. Objects on the other side are in grey.
+nsa_6_4,Some cylinders are on opposite sides of a plane. There are 7 dark green ones on the left and 2 blue ones on the right.
+nsa_7_4,"A line graph with 4 blue lines increasing gradually and intersecting once, and 5 brown lines decreasing gradually without intersecting the other lines."
+nsa_8_4,A bar chart with 7 bars and mark the middle bar in yellow.
+nsa_9_4,Seven green dash lines are not parallel to each other. They pass through a orange plane and form the same angle with the plane.
+nsa_10_4,Six straight lines are located in a coordinate system and are symmetrical about the Y-axis in pairs. Each pair shares the same color.
+nsa_11_4,A small ball falls from a table 1.4 meters high and bounces to a height of 0.7 meters. The trajectory of the ball's fall and rebound is represented by a dark green dotted line.
+nsa_12_4,"The box on the left contains 9 white balls, and the box on the right contains 4 light green balls and 3 dark green balls."
+nsa_13_4,"The scores of a class are in a bell shape, with the largest number of people in the 60-65 range. The highest and lowest scores are 4 and 20 respectively. A histogram represents the scores of this class."
